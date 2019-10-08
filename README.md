@@ -1,5 +1,6 @@
 # Discord RPC Example
 
+## Note RPC doesn't work on Cloud.
 ## Requirements
 1. Node.js
 2. Discord.exe (Running)
