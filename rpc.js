@@ -5,7 +5,7 @@ async function setActivity() {
 rpc.setActivity({
 		details: "Umm ok",
 		state: "i suck",
-		largeImageKey: 'viz',
+		largeImageKey: 'viz', //Name of the picture uploaded in discord assets
 		largeImageText: 'Nice Logo huh?',
 		smallImageKey: 'zygra',
 		smallImageText: 'LoL',
